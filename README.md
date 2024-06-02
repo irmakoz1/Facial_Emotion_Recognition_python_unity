@@ -1,3 +1,8 @@
+Facial_Emotion_Recognition_python_unity
+
+
+By Irmak Ozarslan
+
 
 This repository is for using Facial Emotion Recognition with Deepface and OpenCV in Unity with a UDP server between Unity and Python.
 
