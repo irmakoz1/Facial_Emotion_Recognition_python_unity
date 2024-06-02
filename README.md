@@ -38,6 +38,12 @@ You can change VideoCapture(0) in python emotion recognition to 1 for changing t
 
 ### 3. Launch the server in Python: (If you want, change the timing of sending the data.)
 
+run 
+
+ ```sh
+server-emotion-recog.py
+```
+
 
 -UdpComms, haarcascade and the python script should be downloaded and put in the same folder.
 
