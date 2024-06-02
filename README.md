@@ -20,7 +20,9 @@ Steps:
 
 1. Launch the server in Python: (If you want, change the timing of sending the data.)
 
-   -Requirement.txt should be pip installed in python. UdpComms and haarcascade and the python script should be downloaded and put in the same folder.
+   -Requirement.txt should be pip installed in python.
+
+   -UdpComms and haarcascade and the python script should be downloaded and put in the same folder.
 
   
 3. It already contains a sample scene in Unity. If you press play, you should be able to see your webcam stream and emotion. Emotion data is coded as emotion in the UdpSocket script.
