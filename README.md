@@ -1,7 +1,4 @@
-Facial_Emotion_Recognition_python_unity
-
-
-By Irmak Ozarslan
+Facial_Emotion_Recognition_python_unity     by Irmak Ozarslan
 
 
 
