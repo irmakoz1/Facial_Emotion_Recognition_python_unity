@@ -17,14 +17,17 @@ public class Webcam_T : MonoBehaviour
         {
             print("Webcam available: " + devices[i].name);
         }
+        
+        WebCamTexture tex = new WebCamTexture(devices[1].name);
 
+        this._rawImage.texture = tex;
+        tex.Play();
         //Renderer rend = this.GetComponentInChildren<Renderer>();
 
         // assuming the first available WebCam is desired
 
-        WebCamTexture tex = new WebCamTexture(devices[0].name);
-        //rend.material.mainTexture = tex;
-        this._rawImage.texture = tex;
-        tex.Play();
+       // rend.material.mainTexture = tex;
+       
 }
+    
 }
