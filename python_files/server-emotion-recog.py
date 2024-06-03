@@ -74,11 +74,11 @@ while True:
     #subprocess. check_call(["pkill", "-f", "emotion-recog-30sec.py emotion_output.py"])
             emotion_output=str()
             emotions_data=[]
-    if data==None:
-        break
-    cap.release()
+            time.sleep(10)
+   # if data==None:
+    #    break
+    #cap.release()
     
-    time.sleep(10)
 
 
     
