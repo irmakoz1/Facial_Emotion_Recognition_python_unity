@@ -56,3 +56,15 @@ It already contains a sample scene in Unity. If you press play, you should be ab
 
 
 
+## Notes:
+
+1. Splitcam is needed to stream the video in unity at the same time while python runs in the background. If you do not need the video stream, you do not have to download this. Just change all the cameras to defaul which is [0].
+
+2. Make sure you create a virtual environment in python and install the requirements.txt there.
+
+3. Version : Python: 3.11, OpenCV: 4.9.0 , Unity:2020.3.21f1$
+
+4. If you want to run the application second time, make sure the webcam is not streaming before running, otherwise it won't work.
+
+
+
