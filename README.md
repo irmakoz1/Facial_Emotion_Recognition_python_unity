@@ -12,6 +12,8 @@ Thanks to these 2 repositories I was able to develop this repository:
 
 2- Facial-Emotion-Recognition-using-OpenCV-and-Deepface by Manish Tipari.
 
+3- If you use the scripts here, please cite me and these two people.
+
 With this, you do not have to pay the OpenCV extension in Unity. Just by changing the code a bit, you can send and receive any data between Python and Unity.
 
 ## Steps:
