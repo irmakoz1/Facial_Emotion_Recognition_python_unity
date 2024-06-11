@@ -77,7 +77,7 @@ while True:
             time.sleep(10)
             if data==None:
                  time.sleep(360)
-    #            break
+                 break
     #cap.release()
     
 
