@@ -75,8 +75,9 @@ while True:
             emotion_output=str()
             emotions_data=[]
             time.sleep(10)
-   # if data==None:
-    #    break
+            if data==None:
+                 time.sleep(360)
+    #            break
     #cap.release()
     
 
