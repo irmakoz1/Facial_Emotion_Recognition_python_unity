@@ -4,11 +4,13 @@
 
 by Irmak Ozarslan
 
-This repository is for using Facial Emotion Recognition with Deepface and OpenCV in Unity with a UDP server between Unity and Python.
+This repository is for using Facial Emotion Recognition with Deepface and OpenCV in Unity with a UDP server between Unity and Python. The visual checks show that facial emotion recognition works above chance.
+
+With this repository, you do not have to pay the OpenCV extension in Unity. Just by changing the code a bit, you can send and receive any data between Python and Unity.
 
 
+<img width="565" height="472" alt="eeeee" src="https://github.com/user-attachments/assets/b9a8d7ef-c5b0-49be-909d-fb0e92c80a77" />
 
-With this, you do not have to pay the OpenCV extension in Unity. Just by changing the code a bit, you can send and receive any data between Python and Unity.
 
 ## Steps:
 
